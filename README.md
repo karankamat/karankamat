@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @karankamat<br>👀 Interested in making things simpler<br>🌱 Currently learning Deep Learning and Node.js<br>💞️ Looking to collaborate on python based projects<br>📫 How to reach me https://www.linkedin.com/in/karan-kamat
+👋 Hi, I’m @karankamat<br>👀 Interested in making things simpler<br>🌱 Currently learning Deep Learning and Node.js<br>💞️ Looking to collaborate on python based projects<br>
 
 
 ## 🌐 Socials:
